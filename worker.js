@@ -1,4 +1,4 @@
-const TOKEN = '7383174818:AAGIsf0zGbBLrwZdwEswDrstYETnBSAbJN8'; // Replace with your BotFather token
+const TOKEN = ''; // Replace with your BotFather token
 const WEBHOOK = '/endpoint';
 // Made by https://t.me/Ashlynn_Repository
 addEventListener('fetch', event => {
